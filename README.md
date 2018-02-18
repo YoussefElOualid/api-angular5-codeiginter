@@ -1,5 +1,5 @@
 # Etape 1
-`git clone`
+`git clone https://github.com/youberman/api-angular5-codeiginter.git`
 
 # Etape 2
 lancer la commande `npm install` et aprés lancer `npm install @angular-devkit/core`
